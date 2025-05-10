@@ -63,7 +63,7 @@ OWNER_UPI_ID = environ.get('OWNER_UPI_ID', 'ThisBoTisFree')
 # ============================
 DATABASE_URI = environ.get('DATABASE_URI', "")
 DATABASE_URI2 = environ.get('DATABASE_URI2', "")
-DATABASE_NAME = environ.get('DATABASE_NAME', "PIRO")
+DATABASE_NAME = environ.get('DATABASE_NAME', "LILY")
 COLLECTION_NAME = environ.get('COLLECTION_NAME', 'FILES')
 
 # ============================
