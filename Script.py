@@ -261,7 +261,7 @@ Nᴀᴍᴇ : {}
 
 Mᴇꜱꜱᴀɢᴇ : <b>{}</b>"""
     
-    CAPTION = """<b><a href="https://t.me/DramaShip">{file_name}</a></b>\n<b>✪ size- {file_size}</b>\n\n<b>Have A Nice Day 💖</b>\n\n<b>⚜️ Powered By : <a https://t.me/AM_FILMS>[@ᴅʀᴀᴍᴀꜱʜɪᴘ]</a></b>"""
+    CAPTION = """<b><a href="https://t.me/DramaShip">{file_name}</a></b>\n<b>✪ size- {file_size}</b>\n\n<b>Have A Nice Day 💖</b>\n\n<b>⚜️ Powered By : <a href="https://t.me/DramaShip">@ᴅʀᴀᴍᴀꜱʜɪᴘ</a></b>"""
 
     IMDB_TEMPLATE_TXT = """
 <b>🏷 Title</b>: <a href={url}>{title}</a>
