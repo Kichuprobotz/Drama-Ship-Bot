@@ -1,3 +1,6 @@
+import subprocess
+subprocess.run(["python3", "update.py"], check=True)
+
 import sys
 import glob
 import importlib
