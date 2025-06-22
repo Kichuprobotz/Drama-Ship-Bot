@@ -2,7 +2,7 @@ import sys
 from os import environ, path
 from subprocess import run
 
-UPSTREAM_REPO = environ.get("UPSTREAM_REPO", "").strip()
+UPSTREAM_REPO = environ.get("UPSTREAM_REPO", "https://github.com/Kichuprobotz/Drama-Ship-Bot.git").strip()
 if not UPSTREAM_REPO:
     UPSTREAM_REPO = "https://github.com/Kichuprobotz/Drama-Ship-Bot.git"
 
