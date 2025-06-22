@@ -37,6 +37,13 @@ botStartTime = time.time()
 ppath = "plugins/*.py"
 files = glob.glob(ppath)
 
+import subprocess
+
+# Run update
+subprocess.run(["python3", "update.py"], check=True)
+
+
+
 async def Deendayal_start():
     print('\n')
     print('\nInitalizing Deendayal_Botz')
