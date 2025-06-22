@@ -1,11 +1,3 @@
-import subprocess
-
-# Run update
-subprocess.run(["python3", "update.py"], check=True)
-
-# Start bot
-subprocess.run(["python3", "bot.py"])
-
 import sys
 import glob
 import importlib
